@@ -20,11 +20,19 @@ Awesome collection of Content Security Policy resources
 - [Web.dev](https://web.dev/csp/)
 
 ## Tools
+- [Report URI Generate CSP](https://report-uri.com/home/generate)
+- [Csper Policy Generator](https://csper.io/generator)
 - [csp-header](https://github.com/frux/csp/tree/master/packages/csp-header#readme) - Zero-dependency library for generating CSP policies. 
 - [express-csp-header](https://github.com/frux/csp/tree/master/packages/express-csp-header#readme) - An Express.js middleware with auto-tld support and nonce generation.
 - [Content Security Policy rules](https://github.com/jonashaag/content-security-policy-rules)
+- [CSP Useful](https://github.com/nico3333fr/CSP-useful)
+- [Content Security Policy Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
 
 ## Posts
+- [Beef up your HTTPS sites with a Content Security Policy](https://dev.to/keevcodes/beef-up-your-https-sites-with-a-content-security-policy-5edn)
+- [Content Security Policy (CSP)](https://www.imperva.com/learn/application-security/content-security-policy-csp-header/)
+- [Content Security Policy](https://www.keycdn.com/support/content-security-policy)
+- [How does Content Security Policy work?](https://stackoverflow.com/questions/30280370/how-does-content-security-policy-csp-work)
 
 ## Videos
 - [Content Security Policy explained | how to protect against Cross Site Scripting (XSS)](https://www.youtube.com/watch?v=txHc4zk6w3s)
